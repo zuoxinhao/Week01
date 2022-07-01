@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fit5032_MyCodeSnippet", "Fit5032_MyCodeSnippet\Fit5032_MyCodeSnippet.csproj", "{A758B759-7928-4E2B-AAB4-3A5E236A948A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A758B759-7928-4E2B-AAB4-3A5E236A948A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A758B759-7928-4E2B-AAB4-3A5E236A948A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A758B759-7928-4E2B-AAB4-3A5E236A948A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A758B759-7928-4E2B-AAB4-3A5E236A948A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FE89CD8-D08E-4581-AB2D-7A6267090FF8}
+	EndGlobalSection
+EndGlobal
